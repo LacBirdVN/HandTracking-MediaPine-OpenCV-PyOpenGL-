@@ -114,7 +114,9 @@ Trong `config.py`:
 | `SMOOTHING` | Chỉ số làm mượt (0.0 đến 1.0) |
 
 ## Chú ý
-![D](./Image/Capture2.png)
+
+
+
 - Trong Terminal sẽ hiện tọa độ normalzed space trong MediaPipe. Về cơ bản đây là tỉ lệ vị trí trong ảnh.
 - ví dụ: 
   ![De](./Image/Capture3.png)
