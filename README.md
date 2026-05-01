@@ -115,7 +115,7 @@ Trong `config.py`:
 
 ## Chú ý
 
-
+![D](./Image/Capture2.png)
 
 - Trong Terminal sẽ hiện tọa độ normalzed space trong MediaPipe. Về cơ bản đây là tỉ lệ vị trí trong ảnh.
 - ví dụ: 
