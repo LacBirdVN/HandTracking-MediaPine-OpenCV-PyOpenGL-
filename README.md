@@ -19,7 +19,7 @@ Project này sử dụng **MediaPipe** để nhận diện bàn tay theo thời 
 
 ## 🎥 Demo
 
-![Demo](Image/Capture.png)
+![Demo](./Image/Capture.png)
 
 - Có thể nhấn và giữ chuột trái ở màn hình 3D (màn bên phải) để thay đổi góc nhìn.
 
@@ -114,10 +114,10 @@ Trong `config.py`:
 | `SMOOTHING` | Chỉ số làm mượt (0.0 đến 1.0) |
 
 ## Chú ý
-![D](Image/Capture2.png)
+![D](./Image/Capture2.png)
 - Trong Terminal sẽ hiện tọa độ normalzed space trong MediaPipe. Về cơ bản đây là tỉ lệ vị trí trong ảnh.
 - ví dụ: 
-  ![De](Image/Capture3.png)
+  ![De](./Image/Capture3.png)
 
   - Frame thứ 2215
   - Điểm 0 có vị trí:
