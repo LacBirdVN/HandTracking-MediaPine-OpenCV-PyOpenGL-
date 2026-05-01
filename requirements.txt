@@ -1,1 +1,5 @@
-opencv-python mediapipe PyQt5 PyOpenGL
+opencv-python
+mediapipe
+PyQt5
+PyOpenGL
+PyOpenGL_accelerate
