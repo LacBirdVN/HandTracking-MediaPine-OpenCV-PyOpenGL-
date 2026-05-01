@@ -60,7 +60,7 @@ Project này sử dụng **MediaPipe** để nhận diện bàn tay theo thời 
 
 - `requirements.txt`: Chứa thư viện python
 
--`.gitignore`: Cấu hình để đưa lên git thôi. Ae không phải quan tâm.
+- `.gitignore`: Cấu hình để đưa lên git thôi. Ae không phải quan tâm.
 
 
 ---
@@ -114,10 +114,10 @@ Trong `config.py`:
 | `SMOOTHING` | Chỉ số làm mượt (0.0 đến 1.0) |
 
 ## Chú ý
-![Demo](image/Capture2.png)
+![D](image/Capture2.png)
 - Trong Terminal sẽ hiện tọa độ normalzed space trong MediaPipe. Về cơ bản đây là tỉ lệ vị trí trong ảnh.
 - ví dụ: 
-  ![Demo](image/Capture3.png)
+  ![De](image/Capture3.png)
 
   - Frame thứ 2215
   - Điểm 0 có vị trí:
@@ -127,4 +127,4 @@ Trong `config.py`:
 
 - Trong đó điểm 0, điểm 1, điểm 2, ... là các điểm trên bàn tay như trong hình vẽ:
   
-  ![Demo](image/hand_landmarks.png)
+  ![Demo1](image/hand_landmarks.png)
