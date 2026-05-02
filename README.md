@@ -124,7 +124,7 @@ Trong `config.py`:
 
   - Frame thứ 2215
   - Điểm 0 có vị trí:
-    - X = 0.22 (0.0 là mép trái, 1.0 là mép phải của khung hình.)
+    - X = 0.22 (0.0 là mép phải, 1.0 là mép trái của khung hình.)
     - Y = 0.756 (0.0 là mép trên, 1.0 là mép dưới.)
     - Z = 0 (gần camera hơn thì âm, xa camera hơn thì dương)
 
