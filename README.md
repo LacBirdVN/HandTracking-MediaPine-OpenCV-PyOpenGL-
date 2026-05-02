@@ -86,8 +86,8 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
-
 Nó sẽ tải có thể hơi lâu nên mọi người kiên nhẫn :)
+
 ---
 
 ## ▶️ Chạy chương trình
